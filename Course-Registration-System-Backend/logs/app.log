@@ -1,0 +1,389 @@
+2025-08-08 17:45:26 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.1 with PID 5344 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-08 17:45:26 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-08 17:46:24 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.1 with PID 15012 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-08 17:46:24 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-08 17:50:09 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.1 with PID 10524 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-08 17:50:09 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-08 18:05:28 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.1 with PID 11568 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-08 18:05:28 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-08 18:05:31 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.1 with PID 9888 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-08 18:05:31 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-08 18:05:35 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.1 with PID 13640 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-08 18:05:35 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-08 18:13:37 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.1 with PID 6152 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-08 18:13:37 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-08 18:18:48 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.1 with PID 3048 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-08 18:18:48 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-11 08:06:21 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 15804 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-11 08:06:21 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-11 08:11:46 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 18620 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-11 08:11:46 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-11 08:13:31 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 17040 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-11 08:13:31 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-11 08:13:40 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 9.074 seconds (process running for 10.343)
+2025-08-11 08:13:59 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-11 08:13:59 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-11 08:13:59 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-11 08:13:59 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-11 08:13:59 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-11 08:13:59 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-11 08:14:17 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-11 08:14:17 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-11 08:15:50 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-11 08:15:50 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-11 08:16:04 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-11 08:16:04 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-11 08:44:54 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 4980 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-11 08:44:54 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-11 08:45:03 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 9.235 seconds (process running for 11.207)
+2025-08-11 08:45:17 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-11 08:45:17 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-11 08:45:17 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-11 08:45:17 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-11 08:45:17 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-11 08:45:17 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-11 08:46:13 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-11 08:46:13 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-11 08:46:39 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-11 08:46:39 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-11 09:37:05 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-11 09:37:05 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-11 09:37:05 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-11 09:37:05 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-11 09:37:05 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-11 09:37:05 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-11 09:37:19 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-11 09:37:19 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-11 09:44:24 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 12360 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-11 09:44:24 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-11 09:44:29 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 5.765 seconds (process running for 9.6)
+2025-08-11 09:45:41 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-11 09:45:41 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-11 09:45:45 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-11 09:45:45 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-11 09:52:24 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 13212 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-11 09:52:24 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-11 10:00:26 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 9704 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-11 10:00:26 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-11 10:00:32 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 5.918 seconds (process running for 7.049)
+2025-08-11 10:00:49 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-11 10:00:49 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-11 10:00:52 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-11 10:00:52 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-11 10:29:15 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-11 10:29:15 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-11 10:29:25 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-11 10:29:25 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-11 10:29:25 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-11 10:29:25 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-11 10:29:25 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-11 10:29:25 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-11 10:29:34 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-11 10:29:34 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-11 10:40:45 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 5600 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-11 10:40:45 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-11 10:40:51 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 6.905 seconds (process running for 8.126)
+2025-08-11 10:40:59 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-11 10:40:59 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-11 10:41:08 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 2496 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-11 10:41:08 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-11 10:41:15 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 6.991 seconds (process running for 8.212)
+2025-08-12 08:25:14 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 14724 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 08:25:14 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 08:27:43 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 988 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 08:27:43 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 08:27:52 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 9.576 seconds (process running for 10.949)
+2025-08-12 08:31:18 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 08:31:18 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 08:31:18 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 08:31:18 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 08:31:18 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 08:31:18 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 08:31:30 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 08:31:30 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 08:31:41 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 08:31:41 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 08:31:45 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 08:31:45 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 08:32:59 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 08:32:59 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 08:33:02 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 08:33:02 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 08:33:15 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 08:33:15 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 08:39:13 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 13356 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 08:39:13 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 08:39:21 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 9.151 seconds (process running for 11.816)
+2025-08-12 08:40:17 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 08:40:17 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 08:41:27 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 19688 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 08:41:27 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 08:41:35 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 8.821 seconds (process running for 10.1)
+2025-08-12 08:41:43 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 08:41:43 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 08:45:45 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 19788 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 08:45:45 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 08:45:53 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 9.2 seconds (process running for 10.472)
+2025-08-12 08:46:02 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 08:46:02 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 08:48:56 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 20212 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 08:48:56 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 08:49:04 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 9.074 seconds (process running for 10.374)
+2025-08-12 08:49:41 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 08:49:41 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 08:49:41 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 08:49:41 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 08:49:41 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 08:49:41 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 08:49:41 INFO  com.example.Course.Registration.System.Service.StudentService - Email is not already registered
+2025-08-12 08:49:41 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Validating default user: admin5
+2025-08-12 08:49:41 INFO  com.example.Course.Registration.System.Service.DefaultUserService - User is found in DB for username: admin5
+2025-08-12 08:50:31 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 08:50:31 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 08:50:31 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 08:50:31 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 08:50:31 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 08:50:31 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 08:50:31 INFO  com.example.Course.Registration.System.Service.StudentService - Email is not already registered
+2025-08-12 08:50:31 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Validating default user: admin5
+2025-08-12 08:50:31 INFO  com.example.Course.Registration.System.Service.DefaultUserService - User is found in DB for username: admin5
+2025-08-12 08:50:35 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 08:50:35 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 08:50:35 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 08:50:35 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 08:50:35 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 08:50:35 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 08:50:35 INFO  com.example.Course.Registration.System.Service.StudentService - Email is not already registered
+2025-08-12 08:50:35 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Validating default user: admin5
+2025-08-12 08:50:35 INFO  com.example.Course.Registration.System.Service.DefaultUserService - User is found in DB for username: admin5
+2025-08-12 08:57:26 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 9740 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 08:57:26 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 08:57:36 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 9.888 seconds (process running for 11.244)
+2025-08-12 09:01:14 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 6168 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 09:01:14 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 09:01:24 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 10.545 seconds (process running for 11.903)
+2025-08-12 09:01:36 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 09:01:36 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 09:01:36 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 09:01:36 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 09:01:36 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 09:01:36 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 09:01:36 INFO  com.example.Course.Registration.System.Service.StudentService - Email is not already registered
+2025-08-12 09:01:36 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Validating default user: admin5
+2025-08-12 09:01:36 INFO  com.example.Course.Registration.System.Service.DefaultUserService - User is found in DB for username: admin5
+2025-08-12 09:01:41 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 09:01:41 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 09:01:41 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 09:01:41 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 09:01:41 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 09:01:41 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 09:01:41 INFO  com.example.Course.Registration.System.Service.StudentService - Email is not already registered
+2025-08-12 09:01:41 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Validating default user: admin5
+2025-08-12 09:01:41 INFO  com.example.Course.Registration.System.Service.DefaultUserService - User is found in DB for username: admin5
+2025-08-12 09:02:02 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 09:02:02 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 09:02:02 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 09:02:02 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 09:02:02 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 09:02:02 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 09:02:07 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 09:02:07 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 09:02:07 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 09:02:07 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 09:02:07 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 09:02:07 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 09:02:07 INFO  com.example.Course.Registration.System.Service.StudentService - Email is not already registered
+2025-08-12 09:02:07 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Validating default user: admin5
+2025-08-12 09:02:07 INFO  com.example.Course.Registration.System.Service.DefaultUserService - User is found in DB for username: admin5
+2025-08-12 09:04:56 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 09:04:56 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 09:04:56 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 09:04:56 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 09:04:56 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 09:04:56 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 09:04:56 INFO  com.example.Course.Registration.System.Service.StudentService - Email is not already registered
+2025-08-12 09:04:56 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Validating default user: admin5
+2025-08-12 09:04:56 INFO  com.example.Course.Registration.System.Service.DefaultUserService - User is found in DB for username: admin5
+2025-08-12 09:06:45 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 2824 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 09:06:45 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 09:06:53 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 8.728 seconds (process running for 9.998)
+2025-08-12 09:07:10 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 09:07:10 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 09:07:10 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 09:07:10 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 09:07:10 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 09:07:10 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 09:07:11 INFO  com.example.Course.Registration.System.Service.StudentService - Email is not already registered
+2025-08-12 09:07:11 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Validating default user: admin5
+2025-08-12 09:07:11 INFO  com.example.Course.Registration.System.Service.DefaultUserService - User is found in DB for username: admin5
+2025-08-12 09:07:34 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 5492 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 09:07:34 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 09:09:08 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 16328 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 09:09:08 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 09:09:16 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 8.458 seconds (process running for 9.947)
+2025-08-12 09:09:22 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 09:09:22 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 09:09:22 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 09:09:22 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 09:09:22 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 09:09:22 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 09:09:22 INFO  com.example.Course.Registration.System.Service.StudentService - Email is not already registered
+2025-08-12 09:09:22 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Validating default user: admin5
+2025-08-12 09:09:22 INFO  com.example.Course.Registration.System.Service.DefaultUserService - User is found in DB for username: admin5
+2025-08-12 09:09:23 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 09:09:23 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 09:09:23 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 09:09:23 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 09:09:23 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 09:09:23 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 09:09:23 INFO  com.example.Course.Registration.System.Service.StudentService - Email is not already registered
+2025-08-12 09:09:23 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Validating default user: admin5
+2025-08-12 09:09:23 INFO  com.example.Course.Registration.System.Service.DefaultUserService - User is found in DB for username: admin5
+2025-08-12 09:10:59 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 13488 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 09:10:59 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 09:11:07 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 8.773 seconds (process running for 10.113)
+2025-08-12 09:11:14 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 09:11:14 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 09:11:14 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 09:11:14 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 09:11:14 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 09:11:14 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 09:11:14 INFO  com.example.Course.Registration.System.Service.StudentService - Email is not already registered
+2025-08-12 09:11:14 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Validating default user: admin5
+2025-08-12 09:11:14 INFO  com.example.Course.Registration.System.Service.DefaultUserService - User is found in DB for username: admin5
+2025-08-12 09:12:16 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 21676 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 09:12:16 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 09:12:24 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 8.557 seconds (process running for 9.799)
+2025-08-12 09:12:28 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 09:12:28 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 09:12:28 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 09:12:28 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 09:12:28 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 09:12:28 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 09:12:28 INFO  com.example.Course.Registration.System.Service.StudentService - Email is not already registered
+2025-08-12 09:12:28 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Validating default user: admin5
+2025-08-12 09:12:28 INFO  com.example.Course.Registration.System.Service.DefaultUserService - User is found in DB for username: admin5
+2025-08-12 09:13:29 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 9160 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 09:13:29 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 09:13:38 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 9.401 seconds (process running for 10.75)
+2025-08-12 09:13:42 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 09:13:42 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 09:13:42 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 09:13:42 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 09:13:42 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 09:13:42 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 09:13:42 INFO  com.example.Course.Registration.System.Service.StudentService - Email is not already registered
+2025-08-12 09:13:42 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Validating default user: admin5
+2025-08-12 09:13:42 INFO  com.example.Course.Registration.System.Service.DefaultUserService - User is found in DB for username: admin5
+2025-08-12 09:15:48 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 7728 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 09:15:48 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 09:17:57 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 14000 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 09:17:57 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 09:18:05 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 8.487 seconds (process running for 9.761)
+2025-08-12 09:18:31 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 09:18:31 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 09:18:31 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 09:18:31 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 09:18:31 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 09:18:31 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 09:18:31 INFO  com.example.Course.Registration.System.Service.StudentService - Email is not already registered
+2025-08-12 09:18:31 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Validating default user: admin5
+2025-08-12 09:18:32 INFO  com.example.Course.Registration.System.Service.DefaultUserService - User is found in DB for username: admin5
+2025-08-12 09:18:32 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Password decrypted successfully, comparing with raw password
+2025-08-12 09:18:32 INFO  com.example.Course.Registration.System.Service.DefaultUserService - Default user authentication successful for username: admin5
+2025-08-12 09:18:32 INFO  com.example.Course.Registration.System.Service.StudentService - Admin credentials validated
+2025-08-12 09:18:32 INFO  com.example.Course.Registration.System.Service.StudentService - Password encrypted and student registered successfully
+2025-08-12 09:18:40 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 09:18:40 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 09:18:47 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 09:18:47 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 09:18:59 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 09:18:59 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 09:19:14 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 09:19:14 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 09:20:33 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 09:20:33 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 09:20:45 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 09:20:45 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 09:20:50 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 09:20:50 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 09:20:55 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 09:20:55 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 09:21:53 INFO  com.example.Course.Registration.System.Controller.StudentController - Get My Courses API called
+2025-08-12 09:21:53 INFO  com.example.Course.Registration.System.Service.StudentService - Get my courses method called
+2025-08-12 09:21:53 INFO  com.example.Course.Registration.System.Service.StudentService - Courses found for the email
+2025-08-12 09:32:25 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 09:32:25 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 09:32:51 INFO  com.example.Course.Registration.System.Controller.StudentController - Get My Courses API called
+2025-08-12 09:32:51 INFO  com.example.Course.Registration.System.Service.StudentService - Get my courses method called
+2025-08-12 09:32:51 INFO  com.example.Course.Registration.System.Service.StudentService - Courses found for the email
+2025-08-12 09:33:05 INFO  com.example.Course.Registration.System.Controller.CourseController - Available Courses API called
+2025-08-12 09:33:05 INFO  com.example.Course.Registration.System.Service.CourseService - Fetching available courses
+2025-08-12 09:33:26 INFO  com.example.Course.Registration.System.Controller.CourseRegistryController - Enroll Student API called
+2025-08-12 09:33:26 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - None of the given input field is missing
+2025-08-12 09:33:26 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - Course ID exists in DB
+2025-08-12 09:33:44 INFO  com.example.Course.Registration.System.Controller.CourseRegistryController - Enroll Student API called
+2025-08-12 09:33:44 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - None of the given input field is missing
+2025-08-12 09:33:44 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - Course ID exists in DB
+2025-08-12 09:33:52 INFO  com.example.Course.Registration.System.Controller.CourseRegistryController - Enroll Student API called
+2025-08-12 09:34:03 INFO  com.example.Course.Registration.System.Controller.CourseRegistryController - Enroll Student API called
+2025-08-12 09:34:03 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - None of the given input field is missing
+2025-08-12 09:34:03 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - Course ID exists in DB
+2025-08-12 09:50:47 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 09:50:47 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 09:50:47 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 09:50:47 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 09:50:47 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 09:50:47 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 09:51:05 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 09:51:05 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 09:51:46 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 09:51:46 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 09:51:50 INFO  com.example.Course.Registration.System.Controller.CourseController - Available Courses API called
+2025-08-12 09:51:50 INFO  com.example.Course.Registration.System.Service.CourseService - Fetching available courses
+2025-08-12 09:51:54 INFO  com.example.Course.Registration.System.Controller.CourseRegistryController - Enroll Student API called
+2025-08-12 09:51:54 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - None of the given input field is missing
+2025-08-12 09:51:58 INFO  com.example.Course.Registration.System.Controller.CourseRegistryController - Enroll Student API called
+2025-08-12 09:51:58 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - None of the given input field is missing
+2025-08-12 09:51:58 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - Course ID exists in DB
+2025-08-12 09:51:58 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - You are not already enrolled for this course
+2025-08-12 09:51:58 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - Course registered in DB successfully
+2025-08-12 09:52:04 INFO  com.example.Course.Registration.System.Controller.CourseRegistryController - Enroll Student API called
+2025-08-12 09:52:04 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - None of the given input field is missing
+2025-08-12 09:52:04 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - Course ID exists in DB
+2025-08-12 09:52:07 INFO  com.example.Course.Registration.System.Controller.CourseRegistryController - Enroll Student API called
+2025-08-12 09:52:07 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - None of the given input field is missing
+2025-08-12 09:52:07 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - Course ID exists in DB
+2025-08-12 09:52:11 INFO  com.example.Course.Registration.System.Controller.CourseRegistryController - Enroll Student API called
+2025-08-12 09:52:11 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - None of the given input field is missing
+2025-08-12 09:52:11 INFO  com.example.Course.Registration.System.Service.CourseRegistryService - Course ID exists in DB
+2025-08-12 09:52:30 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 09:52:30 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 09:52:33 INFO  com.example.Course.Registration.System.Controller.StudentController - Get My Courses API called
+2025-08-12 09:52:33 INFO  com.example.Course.Registration.System.Service.StudentService - Get my courses method called
+2025-08-12 09:52:33 INFO  com.example.Course.Registration.System.Service.StudentService - Courses found for the email
+2025-08-12 10:58:33 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 19304 (D:\Trainee\Course registration system project\Course Registration System\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course Registration System)
+2025-08-12 10:58:33 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 10:58:39 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 6.492 seconds (process running for 8.047)
+2025-08-12 10:59:05 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 10:59:05 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 10:59:05 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 10:59:05 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 10:59:05 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 10:59:05 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 12:07:44 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Starting CourseRegistrationSystemApplication using Java 24.0.2 with PID 18760 (D:\Trainee\Course registration system project\Course-Registration-System-Backend\Course-Registration-System\target\classes started by dell in D:\Trainee\Course registration system project\Course-Registration-System-Backend)
+2025-08-12 12:07:44 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-12 12:07:53 INFO  com.example.Course.Registration.System.CourseRegistrationSystemApplication - Started CourseRegistrationSystemApplication in 8.866 seconds (process running for 10.294)
+2025-08-12 12:08:10 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 12:08:10 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 12:09:38 INFO  com.example.Course.Registration.System.Controller.StudentController - Register API called
+2025-08-12 12:09:38 INFO  com.example.Course.Registration.System.Service.StudentService - Student service is called
+2025-08-12 12:09:38 INFO  com.example.Course.Registration.System.Service.StudentService - None of the field is empty
+2025-08-12 12:09:38 INFO  com.example.Course.Registration.System.Service.StudentService - Valid name format
+2025-08-12 12:09:38 INFO  com.example.Course.Registration.System.Service.StudentService - Email format is valid
+2025-08-12 12:09:38 INFO  com.example.Course.Registration.System.Service.StudentService - Password format matched
+2025-08-12 12:09:50 INFO  com.example.Course.Registration.System.Controller.StudentController - Login API called
+2025-08-12 12:09:50 INFO  com.example.Course.Registration.System.Service.StudentService - Login method called
+2025-08-12 12:09:55 INFO  com.example.Course.Registration.System.Controller.StudentController - Get My Courses API called
+2025-08-12 12:09:55 INFO  com.example.Course.Registration.System.Service.StudentService - Get my courses method called
+2025-08-12 12:09:55 INFO  com.example.Course.Registration.System.Service.StudentService - Courses found for the email

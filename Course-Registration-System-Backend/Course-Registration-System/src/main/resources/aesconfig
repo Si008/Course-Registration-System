@@ -1,0 +1,25 @@
+aes.key.value = 1234567890123457
+
+# Lockout duration in minutes (120 = 2 hours)
+login.lockout.duration.minutes= 10
+
+# Maximum failed login attempts before lockout
+login.max.failed.attempts=3
+
+# Register regex format
+username.regex.format = ^[A-Za-z][A-Za-z\s]{1,49}$
+email.regex.format = ^[A-Za-z0-9+_.-]+@[A-Za-z0-9.-]+$
+ password.regex.format = ^(?=.*[A-Z])(?=.*[a-z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]{8,}$
+
+#JWT TOKEN
+ secret.key.JWT = mysupersecretkeymustbeatleast32chars!
+ secret.lock.JWT = 1000*60*60
+
+#Admin username and format
+default.user.password.format = ^[a-zA-Z0-9]+@[0-9]+$
+    default.user.username.format = ^[a-zA-Z0-9]{3,20}$
+
+# Admin validation
+admin.username = admin5
+admin.password = admin@123
+

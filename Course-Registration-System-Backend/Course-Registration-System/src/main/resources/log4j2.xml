@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+
+    <Properties>
+        <Property name="LOG_PATH">"D:\Trainee\Course registration system project\Course Registration System\logs\app"</Property>
+        <Property name="LOG_FILE">app</Property>
+    </Properties>
+
+    <Appenders>
+        <!-- Console Appender for Spring Boot's default logs -->
+        <Console name="ConsoleAppender" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5level %logger{36} - %msg%n" />
+        </Console>
+
+        <!-- File Appender for your application logs -->
+        <File name="FileAppender" fileName="logs/app.log" append="true">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5level %logger{36} - %msg%n" />
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <!-- Spring Boot and framework logs (stay in console) -->
+        <Logger name="org.springframework" level="info" additivity="false">
+            <AppenderRef ref="ConsoleAppender" />
+        </Logger>
+        <Logger name="org.hibernate" level="warn" additivity="false">
+            <AppenderRef ref="ConsoleAppender" />
+        </Logger>
+
+        <!-- Your application logs (go to file only) -->
+        <Logger name="com.example" level="info" additivity="false">
+            <AppenderRef ref="FileAppender" />
+        </Logger>
+
+        <!-- Root logger (console for any unhandled logs) -->
+        <Root level="info">
+            <AppenderRef ref="ConsoleAppender" />
+        </Root>
+    </Loggers>
+</Configuration>

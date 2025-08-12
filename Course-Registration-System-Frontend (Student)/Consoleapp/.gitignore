@@ -1,0 +1,76 @@
+# Maven build and wrapper
+/target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Output/build folders
+/build/
+/out/
+/bin/
+
+# Ignore target/build folders except inside src/main and src/test
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# IDE configs
+.idea/
+.vscode/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse/STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Gradle cache (if used)
+.gradle/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compiled Java classes
+*.class
+
+# JAR/WAR/EAR
+*.jar
+*.war
+*.ear
+
+# Environment/config (if used and contains secrets)
+.env
+*.env
+*.properties
+*.yml
+
+# OS/Editor specific
+.svn/
+*.swp
+*~
+
+# Package managers (npm/yarn/pnpm, only if there’s a frontend)
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# HELP.md (only if you don't want to version this documentation file; otherwise, remove this line!)
+HELP.md
+
